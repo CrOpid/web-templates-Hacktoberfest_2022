@@ -6,19 +6,19 @@
 2. Clone your forked copy of the project.
 
 ```bash
-git clone https://github.com/<your username>/Code-Dump-HacktoberFest-2022.git
+git clone https://github.com/<your username>/web-templates-Hacktoberfest-2022.git
 ```
 
 3. Change the working directory
 
 ```bash
-cd Code-Dump
+cd web-templates-Hacktoberfest-2022
 ```
 
 4. Add a reference to the original repository.
 
 ```
-git remote add upstream https://github.com/CrOpid/Code-Dump-HacktoberFest-2022
+git remote add upstream https://github.com/CrOpid/web-templates-Hacktoberfest-2022
 ```
 
 5. Check the remotes for this repository.
